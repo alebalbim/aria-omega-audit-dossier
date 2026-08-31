@@ -15,7 +15,7 @@
 ---
 
 <a id="english"></a>
-## 🇸 English
+## u🇸 English
 
 ### What is This Repository?
 
