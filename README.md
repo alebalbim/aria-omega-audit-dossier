@@ -157,7 +157,8 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-NoD
 
 ## 👤 Author / Autor
 
-**Ale Balbim**  https://www.linkedin.com/in/alebalbim
+**Ale Balbim**  
+https://www.linkedin.com/in/alebalbim
 Creator of ARIA OMEGA  
 Holder of INPI Patent BR 10 2025 023744 0
 
