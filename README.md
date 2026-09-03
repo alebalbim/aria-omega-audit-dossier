@@ -113,6 +113,29 @@ This trail shows:
 📁 [View Full History](historico/)
 
 
+## 📄 Latest Audit Artifacts
+
+**Generated:** 2026-09-03 18:58:20 UTC  
+**Evidence Pieces:** 2,019  
+**Integrity Status:** ✅ OK
+
+### Audit Dossier (Conformidade Regulatória)
+- 📖 [Read Human-Readable Version](dossie_latest.md)
+- 🔐 [Download Verifiable JSON](dossie_latest.json)
+
+### Cognitive Traceability (Thought Trail)
+- 🧠 [Read Human-Readable Version](trilha_do_pensar_latest.md)
+- 🔐 [Download Verifiable JSON](trilha_do_pensar_latest.json)
+
+---
+
+## 🔍 Why Both Formats?
+
+- **Markdown (.md)**: For human readers — CTOs, compliance officers, regulators
+- **JSON (.json)**: For technical verification — recalculate hashes, validate TSA signatures, parse programmatically
+
+Both formats contain identical data. The JSON is the cryptographic source of truth; the Markdown is a human-friendly rendering.
+
 ---
 
 <a id="português"></a>
