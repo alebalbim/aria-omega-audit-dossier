@@ -74,6 +74,45 @@ ARIA OMEGA (Autonomous Regulatory Intelligence & Audit Architecture) is a neuro-
 
 **Main Repository (Private)**: 
 
+## 📄 Latest Audit Dossier
+
+**Generated:** 2026-09-03 18:58:20 UTC  
+**Evidence Pieces:** 2,019 (↑ 44% from previous cycle)  
+**Integrity Status:** ✅ OK  
+**Root Hash:** `86682e85344d7c3aaecef2ee165a330bc133eb8c830b1dbdf2b663329950bf2c`
+
+ [Download Latest Dossier](dossie_latest.md)  
+📥 [Full Timestamped Version](dossie_2026-09-03_18-58-20.md)
+
+---
+
+##  Cognitive Traceability (Thought Trail)
+
+Unlike traditional AI systems, ARIA OMEGA documents **how** it reaches conclusions — not just **what** it concludes.
+
+📥 [View Example Thought Trail](EXEMPLO_TRILHA_DO_PENSAR.md)
+
+This trail shows:
+- ✅ **Ex-Ante Intent:** What the system planned before acting
+- ✅ **Data Sources Queried:** GitHub, ArXiv, BACEN SGS (with execution times)
+- ✅ **3 Actively Rejected Paths:** Why the system chose Correlation over Neural Networks
+- ✅ **Real Training Metrics:** MSE train = 0.149, MSE test = 0.101
+- ✅ **Ex-Post Self-Audit:** Hash-Chain + TSA verification
+
+---
+
+##  Audit History
+
+| Date | Evidence Pieces | Integrity | Root Hash |
+|------|----------------|-----------|-----------|
+| 2026-09-03 18:58 | **2,019** | ✅ OK | `86682e...` |
+| 2026-09-03 18:41 | 1,997 | ✅ OK | `07aa22...` |
+| 2026-08-30 20:52 | 1,402 | ✅ OK | `1b82d7...` |
+| 2026-08-29 12:12 | 1,030 | ✅ OK | `a5471c...` |
+
+📁 [View Full History](historico/)
+
+
 ---
 
 <a id="português"></a>
